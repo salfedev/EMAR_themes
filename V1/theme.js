@@ -1,1 +1,1 @@
-console.log("JS is enabled. Jazz theme V.0.1");
+console.info('Example message from example-css-image-theme.');
